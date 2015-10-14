@@ -1,4 +1,5 @@
-itersleft = 999
+itersleft = raw_input("Enter your number: ")
+itersleft=int(itersleft)
 set = []
 
 while (itersleft != 0):
